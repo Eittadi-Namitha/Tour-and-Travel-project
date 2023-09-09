@@ -1,5 +1,5 @@
 # TravelWorld
-a Django project on Tour & Travel
+Django project on Tour & Travel
 
 ### Project Screenshots
 
